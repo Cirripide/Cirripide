@@ -52,9 +52,7 @@ Here are some ideas to get you started:
           <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
            <img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
         </span>
-    </li>   
-    <li>
-  
+    </li>     
     <li>
         <span>
             🏫 Learning all about:&nbsp;
