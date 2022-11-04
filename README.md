@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <ul>
     <li>
         <span>
-            🏢 I’m currently working at Neobiz srl.
+            🏢 I’m currently working at Gewiss.
         </span>
     </li>
     <li>
